@@ -1,0 +1,24 @@
+{
+  "name": "sparta-scoop",
+  "version": "1.0.0",
+  "description": "api for SpartaScoop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sparta",
+    "scoop",
+    "api",
+    "sjsu"
+  ],
+  "author": "Nitinkumar Gove",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.49.0",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.7"
+  }
+}
