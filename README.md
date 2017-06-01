@@ -1,2 +1,3 @@
-# Node js REST APIs
-This repository contains simple node js programs and a todo list RESTful api which you can use and customize.
+# Building REST apis using node js and mongo db
+
+This repository contains a set of REST api which are built using node js with mongo db as a backend database. 
