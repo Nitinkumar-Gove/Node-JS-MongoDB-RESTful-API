@@ -1,7 +1,0 @@
-/*
-    This directory contains simple Node js programs which demonstrate basic features of Node js framework.
-    @author Nitinkumar Gove
-*/
-
-minor update - 05/03/2017 : 11:19 AM
-minor update - 05/03/2017 : 11:27 AM
